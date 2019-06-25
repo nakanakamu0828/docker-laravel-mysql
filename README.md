@@ -30,7 +30,7 @@ $ docker-compose up -d --build
 $ git clone [github repogitory url] src
 ```
 
-### Composer intll
+### Composer install
 ```
 $ docker-compose run composer install
 ```
