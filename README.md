@@ -1,6 +1,6 @@
-# docker-laravel-echo-server
+# docker-laravel-mysql
 
-Laravel Echo ServerのDocker開発環境
+Laravel5.8 & MySQL8.0のDocker開発環境
 
 ## Description
 Dockerを利用した Laravel Echo Server の開発環境
